@@ -20,4 +20,5 @@ is used. To start it, please, follow the next steps.
 
 ### Data download
 
-*This section describes how the data is obtained.*
+1. Set the credentials in the `.env` file in the root project directory. Use the [.env.example](./.env.example) file as a refence.
+1. Run [this notebook](./notebooks/01_create_datasets.ipynb) to create the datasets.
